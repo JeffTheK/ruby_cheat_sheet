@@ -43,3 +43,24 @@ def badMethodName( foo, bar )
   ...
 end
 ```
+
+## Variable
+
+Good
+
+```ruby
+# local variable
+some_var = ''
+
+# global variable
+$global_var = ''
+
+# constant variable
+SOME_CONSTANT = ''
+```
+
+Bad
+
+```ruby
+someBadVar = ''
+```

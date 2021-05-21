@@ -14,3 +14,9 @@ code blocks
 input output
 unit testing
 date
+
+we should also cover common tools like:
+rake
+rspec
+minitest
+rdoc

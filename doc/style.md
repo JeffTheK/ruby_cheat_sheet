@@ -21,6 +21,23 @@ class foo_bar
 end
 ```
 
+## Module
+Good
+
+```ruby
+module SomeKindOfModule
+
+end
+```
+
+Bad
+
+```ruby
+module badNameForModule
+
+end
+```
+
 ## Method
 Good
 

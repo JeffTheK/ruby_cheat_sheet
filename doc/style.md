@@ -1,7 +1,6 @@
 # Style
 
 ## Class
-
 Good
 
 ``` ruby
@@ -23,7 +22,6 @@ end
 ```
 
 ## Method
-
 Good
 
 ```ruby
@@ -45,7 +43,6 @@ end
 ```
 
 ## Variable
-
 Good
 
 ```ruby

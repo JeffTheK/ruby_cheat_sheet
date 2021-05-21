@@ -1,2 +1,16 @@
 Style:
 all files should be in lowercase
+
+Basic topics that we need to cover:
+code style
+class
+method
+file
+if else
+c extensions
+Array
+Hash
+code blocks
+input output
+unit testing
+date

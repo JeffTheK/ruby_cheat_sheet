@@ -4,34 +4,42 @@
 
 Good
 
-    class SomeKindOfClass
+``` ruby
+class SomeKindOfClass
 
-    end
+end
+```
 
 Bad
 
-    class someOtherKindOfClass
+```ruby
+class someOtherKindOfClass
 
-    end
+end
 
-    class foo_bar
+class foo_bar
 
-    end
+end
+```
 
 ## Method
 
 Good
 
-    def foo_bar_something(foo, bar)
-      ...
-    end
+```ruby
+def foo_bar_something(foo, bar)
+  ...
+end
 
-    def foo_bar_something foo, bar
-      ...
-    end
+def foo_bar_something foo, bar
+  ...
+end
+```
 
 Bad
 
-    def badMethodName( foo, bar )
-      ...
-    end
+```ruby
+def badMethodName( foo, bar )
+  ...
+end
+```

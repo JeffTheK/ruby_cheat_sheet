@@ -14,3 +14,11 @@ task :name [:prereq1, :prereq2] do
   # ...
 end
 ```
+
+
+
+## Run tasks
+
+````shell
+$ rake some_task_name
+````

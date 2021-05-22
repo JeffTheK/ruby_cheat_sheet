@@ -11,6 +11,19 @@
 
 
 
+## Writing file
+
+````ruby
+File.open("bin/log.txt", "w") do |f|
+  f.write "some kind of text"
+end
+
+File.write("bin/log.txt", "data...")
+File.write("bin/log.txt", "data...", mode: "a")
+````
+
+
+
 ## File modes
 
 ````ruby

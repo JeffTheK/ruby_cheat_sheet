@@ -1,5 +1,5 @@
 # File
-Reading file
+## Reading file
 
 ```ruby
   text = File.read('etc/my_file.txt')

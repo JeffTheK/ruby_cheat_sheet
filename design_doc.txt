@@ -1,5 +1,6 @@
 Style:
 all files should be in lowercase
+split code topics into parts instead of showing all methods in one block
 
 Basic topics that we need to cover:
 code style X

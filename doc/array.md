@@ -12,6 +12,23 @@ a = Array.new(3, 'x') # => ['x', 'x', 'x']
 
 
 
+## Accessing elements
+
+````ruby
+a = [2, 'bar', :foo, 'baz', 7]
+
+a[0] # => 2
+a[-1] # => 7
+a[-2] # => 'baz'
+
+a[0..1] # => [2, 'bar']
+
+a.first # => 2
+a.last # => 7
+````
+
+
+
 ## Deleting elements
 
 ````ruby
@@ -23,4 +40,3 @@ a.delete('bar') # => ['foo']
 a = [:foo, 'bar', 2, 'bat']
 a.delete_if {|element| element.to_s.start_with?('b') } # => [:foo, 2]
 ````
-

@@ -1,0 +1,3 @@
+task :hello_world do
+  system('ruby example/hello_world.rb')
+end

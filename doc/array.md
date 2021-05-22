@@ -8,6 +8,9 @@ An Array is an ordered, integer-indexed collection of objects, called *elements*
 a = Array.new # => empty array
 a = Array.new([:foo, 'bar', 2]) #=> [:foo, "bar", 2]
 a = Array.new(3, 'x') # => ['x', 'x', 'x']
+
+a = [] # => []
+a = [3, true] # => [3, true]
 ````
 
 

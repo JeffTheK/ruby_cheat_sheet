@@ -2,11 +2,11 @@ Style:
 all files should be in lowercase
 
 Basic topics that we need to cover:
-code style
+code style X
 class
 method
-file
-if else
+file       X
+if else    X
 c extensions
 Array
 Hash
@@ -16,7 +16,7 @@ unit testing
 date
 
 we should also cover common tools like:
-rake
+rake      X
 rspec
-minitest
+minitest    x
 rdoc

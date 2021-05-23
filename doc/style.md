@@ -1,7 +1,7 @@
 # Style
 
 ## Class
-Good
+:heavy_check_mark: Good
 
 ``` ruby
 class SomeKindOfClass
@@ -9,7 +9,7 @@ class SomeKindOfClass
 end
 ```
 
-Bad
+:x: Bad
 
 ```ruby
 class someOtherKindOfClass
@@ -22,7 +22,7 @@ end
 ```
 
 ## Module
-Good
+:heavy_check_mark: ​Good
 
 ```ruby
 module SomeKindOfModule
@@ -30,7 +30,7 @@ module SomeKindOfModule
 end
 ```
 
-Bad
+:x: ​Bad
 
 ```ruby
 module badNameForModule
@@ -39,7 +39,7 @@ end
 ```
 
 ## Method
-Good
+:heavy_check_mark: ​Good
 
 ```ruby
 def foo_bar_something(foo, bar)
@@ -51,7 +51,7 @@ def foo_bar_something foo, bar
 end
 ```
 
-Bad
+:x: ​Bad
 
 ```ruby
 def badMethodName( foo, bar )
@@ -60,7 +60,7 @@ end
 ```
 
 ## Variable
-Good
+:heavy_check_mark: ​Good
 
 ```ruby
 # local variable
@@ -73,7 +73,7 @@ $global_var = ''
 SOME_CONSTANT = ''
 ```
 
-Bad
+:x: ​Bad
 
 ```ruby
 someBadVar = ''

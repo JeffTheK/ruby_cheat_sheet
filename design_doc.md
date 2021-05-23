@@ -26,17 +26,17 @@ split code topics into parts instead of showing all methods in one block
 
 ### We should also cover common tools like:
 
-- [ ] rake
-- [ ] rspec
-- [ ] minitest
+- [x] rake
+- [x] rspec
+- [x] minitest
 - [x] rdoc
 
 ### Also cover common gui toolkits
 
 - [x] shoes
-- [ ] gtk2
+- [x] gtk2
 - [ ] qtbindings
-- [ ] fxruby
+- [x] fxruby
 
 
 

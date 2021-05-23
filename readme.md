@@ -1,5 +1,6 @@
 # Ruby Cheat Sheet
 ![GitHub](https://img.shields.io/github/license/JeffTheK/ruby_cheat_sheet)
+![](https://img.shields.io/badge/ruby-3.0-green)
 
 A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635) ruby
 

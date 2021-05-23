@@ -4,6 +4,8 @@
 
 A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635) ruby
 
+This cheat sheet was created with intention of collecting ruby snippets for reducing coding hours and making life easier. Any contributions are welcome. Feel free to fork and send a pull request to this project.
+
 ## Cheat Sheet
 
 - [style](/doc/basic/style.md)

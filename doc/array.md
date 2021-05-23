@@ -61,3 +61,24 @@ a.delete_at(2) # => [1, 2, 4, 5]
 a = [:foo, 'bar', 2, 'bat']
 a.delete_if {|element| element.to_s.start_with?('b') } # => [:foo, 2]
 ````
+
+
+
+## Other
+
+```ruby
+a = [:foo, 'bar', 2] 
+a.each {|element|  puts "#{element.class} #{element}" } # Iterates over array elements.
+
+
+a = [:foo, 'bar', 2]
+a.each_index {|index|  puts "#{index} #{a[index]}" } # Iterates over array indexes.
+
+[].empty? # => true
+
+# Calls the block, returns a new Array containing those elements of self for which the block returns a truthy value:
+a = [:foo, 'bar', 2, :bam] 
+a1 = a.select {|element| element.to_s.start_with?('b') }
+a1 # => ["bar", :bam]
+
+```

@@ -33,7 +33,7 @@ split code topics into parts instead of showing all methods in one block
 
 ### Also cover common gui toolkits
 
-- [ ] shoes
+- [x] shoes
 - [ ] gtk2
 - [ ] qtbindings
 - [ ] fxruby

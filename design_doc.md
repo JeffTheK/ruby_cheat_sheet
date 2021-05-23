@@ -31,6 +31,15 @@ split code topics into parts instead of showing all methods in one block
 - [ ] minitest
 - [x] rdoc
 
+### Also cover common gui toolkits
+
+- [ ] shoes
+- [ ] gtk2
+- [ ] qtbindings
+- [ ] fxruby
+
+
+
 ## Examples we should provide
 
 - [x] hello world program

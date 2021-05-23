@@ -33,7 +33,7 @@ split code topics into parts instead of showing all methods in one block
 
 ## Examples we should provide
 
-- [ ] hello world program
+- [x] hello world program
 - [ ] rakefile
 - [ ] minitest tests
 - [ ] rspec tests

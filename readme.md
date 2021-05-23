@@ -3,22 +3,22 @@ A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635
 
 ## Cheat Sheet
 
-- [style](/doc/style.md)
-- [if-else](/doc/if_else.md)
-- [array](/doc/array.md)
-- [file](/doc/file.md)
-- [hash](/doc/hash.md)
+- [style](/doc/basic/style.md)
+- [if-else](/doc/basic/if_else.md)
+- [array](/doc/basic/array.md)
+- [file](/doc/basic/file.md)
+- [hash](/doc/basic/hash.md)
 
 ## Common Tools
-- [rake](/doc/style.md)
-- [rspec](/doc/rspec.md)
-- [minitest](/doc/minitest.md)
-- [rdoc](/doc/rdoc.md)
+- [rake](/doc/tools/rake.md)
+- [rspec](/doc/tools/rspec.md)
+- [minitest](/doc/tools/minitest.md)
+- [rdoc](/doc/tools/rdoc.md)
 
 ## GUI Frameworks
 
-- [shoes](/doc/shoes.md)
-- [gtk2](/doc/gtk2.md)
-- [qt-bindings](/doc/qtbindings.md)
-- [fxruby](/doc/fxruby.md)
+- [shoes](/doc/gui/shoes.md)
+- [gtk2](/doc/gui/gtk2.md)
+- [qt-bindings](/doc/gui/qtbindings.md)
+- [fxruby](/doc/gui/fxruby.md)
 

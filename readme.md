@@ -1,5 +1,5 @@
 # Ruby Cheat Sheet
-A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635) ruby
+A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635) ruby ![GitHub](https://img.shields.io/github/license/JeffTheK/ruby_cheat_sheet)
 
 ## Cheat Sheet
 

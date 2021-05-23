@@ -32,6 +32,21 @@ a.last # => 7
 
 
 
+## Adding elements
+
+````ruby
+a =  [3, true]
+a << 'foo' # => [3, true, 'foo']
+
+a = [:foo, 'bar', 2]
+a.push(:baz, :bat) # => [:foo, "bar", 2, :baz, :bat]
+
+a = [:foo, 'bar', 2]
+a.insert(1, :bat, :bam) # => [:foo, :bat, :bam, "bar", 2]
+````
+
+
+
 ## Deleting elements
 
 ````ruby

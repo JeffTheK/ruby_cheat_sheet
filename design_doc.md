@@ -35,7 +35,6 @@ split code topics into parts instead of showing all methods in one block
 
 - [x] shoes
 - [x] gtk2
-- [ ] qtbindings
 - [x] fxruby
 
 

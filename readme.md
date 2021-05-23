@@ -19,6 +19,5 @@ A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635
 
 - [shoes](/doc/gui/shoes.md)
 - [gtk2](/doc/gui/gtk2.md)
-- [qt-bindings](/doc/gui/qtbindings.md)
 - [fxruby](/doc/gui/fxruby.md)
 

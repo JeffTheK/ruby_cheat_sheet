@@ -5,3 +5,7 @@ end
 task :minitest do
   system('ruby example/minitest_test.rb')
 end
+
+task :rspec do
+  system('rspec spec example/rspec_test.rb')
+end

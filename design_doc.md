@@ -35,5 +35,5 @@ split code topics into parts instead of showing all methods in one block
 
 - [x] hello world program
 - [ ] rakefile
-- [ ] minitest tests
+- [x] minitest tests
 - [ ] rspec tests

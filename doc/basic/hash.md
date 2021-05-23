@@ -28,3 +28,15 @@ h[:foo] = 1 # => { :foo => 1 }
 h.store(:bar, 2) # => {:foo => 1, :bar => 2}
 ````
 
+
+
+## Deleting elements
+
+````ruby
+h = {:foo => 0, :bar => 1, :baz => 2}
+h.delete(:bar) # => { :foo => 0, :baz => 2 }
+
+h = {'foo' => 0, 'bar' => 1, 'baz' => 2}
+h.delete_if {|key, value| value > 0 } # => { 'foo' => 0 }
+````
+

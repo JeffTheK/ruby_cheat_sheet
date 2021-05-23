@@ -1,3 +1,7 @@
 task :hello_world do
   system('ruby example/hello_world.rb')
 end
+
+task :minitest do
+  system('ruby example/minitest_test.rb')
+end

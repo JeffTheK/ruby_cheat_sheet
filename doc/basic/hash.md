@@ -18,3 +18,13 @@ a = { :foo => 0, 'bar' => 1, false => 2 } # => { :foo => 0, 'bar' => 1, false =>
 a = Hash.new # => {}
 ````
 
+
+
+## Adding elements
+
+````ruby
+h = {}
+h[:foo] = 1 # => { :foo => 1 }
+h.store(:bar, 2) # => {:foo => 1, :bar => 2}
+````
+

@@ -20,6 +20,24 @@ a = Hash.new # => {}
 
 
 
+## Accessing elements
+
+````ruby
+h = {:foo => 0, :bar => 1, :baz => 2}
+h[:foo] # => 0
+
+h = {'foo' => 0, 'bar' => 1, 'baz' => 2}
+h.keys # => ['foo', 'bar', 'baz']
+
+h = {:foo => 0, 'bar' => 1, false => 2}
+h.values # => [0, 1, 2]
+
+h = {'foo' => 0, 'bar' => 1, 'baz' => 2}
+h.select {|key, value| value < 2 } # => {'foo' => 0, :'bar' => 1}
+````
+
+
+
 ## Adding elements
 
 ````ruby

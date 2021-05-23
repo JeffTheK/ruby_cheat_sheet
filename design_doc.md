@@ -29,7 +29,7 @@ split code topics into parts instead of showing all methods in one block
 - [ ] rake
 - [ ] rspec
 - [ ] minitest
-- [ ] rdpc
+- [x] rdoc
 
 ## Examples we should provide
 

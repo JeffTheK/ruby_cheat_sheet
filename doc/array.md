@@ -40,6 +40,9 @@ a.clear # => [] removes elements
 a = ['foo', 'bar', 'bar', 'bar']
 a.delete('bar') # => ['foo']
 
+a = [1, 2, 3, 4, 5]
+a.delete_at(2) # => [1, 2, 4, 5]
+
 a = [:foo, 'bar', 2, 'bat']
 a.delete_if {|element| element.to_s.start_with?('b') } # => [:foo, 2]
 ````

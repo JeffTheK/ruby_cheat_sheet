@@ -14,3 +14,11 @@ A cheat sheet for ![img](https://cdn.emojidex.com/emoji/mdpi/Ruby.png?1465787635
 - [rspec](/doc/rspec.md)
 - [minitest](/doc/minitest.md)
 - [rdoc](/doc/rdoc.md)
+
+## GUI Frameworks
+
+- [shoes](/doc/shoes.md)
+- [gtk2](/doc/gtk2.md)
+- [qt-bindings](/doc/qtbindings.md)
+- [fxruby](/doc/fxruby.md)
+

@@ -30,3 +30,10 @@ split code topics into parts instead of showing all methods in one block
 - [ ] rspec
 - [ ] minitest
 - [ ] rdpc
+
+## Examples we should provide
+
+- [ ] hello world program
+- [ ] rakefile
+- [ ] minitest tests
+- [ ] rspec tests

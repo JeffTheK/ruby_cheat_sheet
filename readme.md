@@ -10,6 +10,7 @@ This cheat sheet was created with intention of collecting ruby snippets for redu
 
 - [style](/doc/basic/style.md)
 - [if-else](/doc/basic/if_else.md)
+- [switch-cases](/doc/basic/case.md)
 - [array](/doc/basic/array.md)
 - [file](/doc/basic/file.md)
 - [hash](/doc/basic/hash.md)

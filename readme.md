@@ -14,6 +14,7 @@ This cheat sheet was created with intention of collecting ruby snippets for redu
 - [array](/doc/basic/array.md)
 - [file](/doc/basic/file.md)
 - [hash](/doc/basic/hash.md)
+- [code-blocks](/doc/basic/code_block.md)
 - [c-extension](/doc/basic/c_extension.md)
 
 ## Common Tools

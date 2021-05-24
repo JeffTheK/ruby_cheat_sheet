@@ -16,6 +16,7 @@ split code topics into parts instead of showing all methods in one block
 - [ ] method
 - [ ] file
 - [ ] if else
+- [ ] switch cases
 - [ ] c extensions
 - [ ] Array
 - [ ] Hash

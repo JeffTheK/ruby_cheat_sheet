@@ -20,7 +20,7 @@ split code topics into parts instead of showing all methods in one block
 - [x] c extensions
 - [ ] Array
 - [ ] Hash
-- [ ] code blocks
+- [x] code blocks
 - [ ] input output
 - [ ] unit testing
 - [ ] data
